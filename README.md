@@ -12,3 +12,6 @@ pinned: false
 # 🎲 Experiment Roulette
 
 AI-powered idea generator for **A/B tests**. Give it a product context → it spins out quirky or serious experiment ideas.
+
+
+Link [here](https://huggingface.co/spaces/ibrahimali94/experiment-roulette)
